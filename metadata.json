@@ -1,0 +1,5 @@
+{
+  "name": "MuseGen AI",
+  "description": "AI-powered music studio that generates long-form compositions using Gemini for structure and MusicGen for high-quality audio segments.",
+  "requestFramePermissions": []
+}
